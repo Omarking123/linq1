@@ -35,7 +35,42 @@
             //foreach (var item in result3)
             //{
             //    Console.WriteLine(item);
+            //}
+            #endregion
+
+
+            #region video 4 
+            //List<int> Numbers = new List<int>() { 1, 2, 3, 4 ,6,7,8,9,10};
+
+            //var result3 = Enumerable.Where(Numbers, N => N % 2 == 0);
+            //foreach (var item in result3)
+            //{
+            //    Console.WriteLine(item);
             //} 
+
+
+
+            //List<int> Numbers = new List<int>() { 1, 2, 3, 4, 6, 7, 8, 9, 10 };
+
+            //var result =  Numbers.Where(x => x % 2 == 0);
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+
+            //List<int> Numbers = new List<int>() { 1, 2, 3, 4, 6, 7, 8, 9, 10 };
+
+            //var result = from N in Numbers
+
+            //             where N % 2 == 0
+            //             select N;
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine(item);
+            //}
             #endregion
         }
     }
