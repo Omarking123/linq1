@@ -93,6 +93,13 @@
             //} 
             #endregion
 
+            #region video6
+            //var result = ListGenerator.CustomerList.Where(c => c.City == "Berlin");
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
 
         }
 
