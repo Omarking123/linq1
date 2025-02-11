@@ -13,6 +13,15 @@
             Console.WriteLine(e01.GetType().Name);
 
             #endregion
+
+
+            #region video 2 
+            int number = 12345;
+            var result = Intextension.Revers(number);
+            Console.WriteLine(result);
+
+            number.Revers(); 
+            #endregion
         }
     }
 }
